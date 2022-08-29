@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Berman
-- 👀 I’m interested in data science, GIS, and impact evaluation, and using these tools to inform effective public policy. 
+- 👀 I use data science to understand and inform more effective public poliy. I'm most interested in GIS, machine learning, and impact evaluation methods.   
 - 📫 How to reach me: itsberman1@gmail.com
 
 <!---
